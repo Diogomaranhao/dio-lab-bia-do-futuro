@@ -1,0 +1,22 @@
+{
+  "metodos_quitacao": {
+    "avalanche": {
+      "criterio": "Pagar primeiro a divida com a maior taxa de juros mensal",
+      "beneficio": "Economiza o maximo de dinheiro em juros no longo prazo",
+      "indicacao": "Ideal para quem prioriza a logica matematica"
+    },
+    "bola_de_neve": {
+      "criterio": "Pagar primeiro a divida com o menor saldo devedor total",
+      "beneficio": "Gera vitorias psicologicas rapidas ao eliminar credores",
+      "indicacao": "Ideal para quem precisa de motivacao imediata"
+    }
+  },
+  "prioridade_legal": [
+    "Dividas essenciais (agua, energia, gas, aluguel)",
+    "Dividas com garantia de bens (financiamento imobiliario ou veicular)",
+    "Credito rotativo e cheque especial (maiores taxas do mercado)"
+  ],
+  "limites_prudenciais": {
+    "comprometimento_maximo_renda": 0.30
+  }
+}
