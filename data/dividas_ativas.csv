@@ -1,0 +1,5 @@
+id,credor,tipo_divida,saldo_devedor,taxa_juros_mensal,data_vencimento,dias_atraso,tem_garantia
+1,Banco Fortaleza,Cartao de Credito Rotativo,3200.00,14.5,2026-01-30,45,nao
+2,Crédito Fácil Financeira,Emprestimo Pessoal,5500.00,4.2,2026-02-28,15,nao
+3,AutoPrime Financiamentos,Financiamento Veicular,12000.00,1.8,2026-01-15,60,sim
+4,Luz & Forca Distribuidora,Conta de Luz,350.00,2.0,2026-03-03,10,nao
