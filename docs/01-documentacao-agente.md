@@ -46,7 +46,6 @@ Acessível, calmo e encorajador. Traduz termos bancários e juros complexos em o
 
 ```mermaid
 flowchart TD
-flowchart TD
     A[Usuário] -->|Mensagem| B[Interface Streamlit]
     B --> C[LLM Local via Ollama]
     C -->|Consulta Contextual| D[Base de Conhecimento]
